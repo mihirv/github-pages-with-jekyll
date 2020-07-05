@@ -13,3 +13,7 @@ github_username: mihirv # DO NOT include the @ character, or else the build will
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+plugins:
+  # Adding RSS feed support
+  - jekyll-feed
